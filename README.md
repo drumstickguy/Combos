@@ -1,2 +1,3 @@
 # Combos
-Combos i tested
+Combos that i tested
+Some of them can be destuctive!
